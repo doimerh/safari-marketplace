@@ -1,4 +1,5 @@
 # safari-marketplace
+tarea lista 
 
 [![CI](https://github.com/rcuello/safari-marketplace/actions/workflows/ci.yml/badge.svg)](https://github.com/rcuello/safari-marketplace/actions/workflows/ci.yml)
 
